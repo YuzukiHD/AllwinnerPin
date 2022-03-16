@@ -1,6 +1,6 @@
 using System.Collections;
 
-namespace AW_Pin_Calc
+namespace AllwinnerPin
 {
     public partial class Form1 : Form
     {

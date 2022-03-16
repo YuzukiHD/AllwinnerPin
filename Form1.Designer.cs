@@ -1,4 +1,4 @@
-﻿namespace AW_Pin_Calc
+﻿namespace AllwinnerPin
 {
     partial class Form1
     {

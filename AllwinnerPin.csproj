@@ -10,7 +10,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="resource\awol_ico.ico" />
+    <Compile Remove="resource\**" />
+    <EmbeddedResource Remove="resource\**" />
+    <None Remove="resource\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove=".gitattributes" />
+    <None Remove=".gitignore" />
+    <None Remove="LICENSE" />
+    <None Remove="README.md" />
   </ItemGroup>
 
   <ItemGroup>

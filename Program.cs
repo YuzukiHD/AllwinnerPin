@@ -1,4 +1,4 @@
-namespace AW_Pin_Calc
+namespace AllwinnerPin
 {
     internal static class Program
     {
